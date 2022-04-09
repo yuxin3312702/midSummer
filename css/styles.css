@@ -61,3 +61,9 @@ p {
   margin-right: auto;
   padding-bottom: 10px;
 }
+
+p.skill {
+  font-size: 18px;
+  text-align: left;
+  color: #642100;
+}
