@@ -14,14 +14,14 @@ body {
   margin: 0;
 }
 
-h1 {
-  color: yellow;
-  padding-top: 70px;
-}
-
 h2 {
   color: darkblue;
+  text-align: center;
+  font-family: DFKai-sb;
+  font-weight: bold;
+  padding-bottom: 5px;
 }
+
 
 .bgimage {
   background-image: url("../images/midSummer.png");
@@ -53,4 +53,11 @@ p {
   height: auto;
   padding-top: 5px;
   padding-bottom: 5px;
+}
+
+.rank {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
 }
