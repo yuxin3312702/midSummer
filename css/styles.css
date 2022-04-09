@@ -14,6 +14,14 @@ body {
   margin: 0;
 }
 
+h1 {
+  color: white;
+  text-align: center;
+  font-family: DFKai-sb;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
 h2 {
   color: darkblue;
   text-align: center;
@@ -62,8 +70,26 @@ p {
   padding-bottom: 10px;
 }
 
+.cadres {
+  height: 50%;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+}
+
 p.skill {
   font-size: 18px;
   text-align: left;
   color: #642100;
+}
+
+.hightlight {
+  height: 60%;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
 }
